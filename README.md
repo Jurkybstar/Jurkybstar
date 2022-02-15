@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Jurkybstar, a 3rd year Cal Poly Student
-      I am an Eagle Scout, and a member of PROVE LAb at Cal Poly.
+      I am an Eagle Scout, and a member of PROVE Lab at Cal Poly.
+      
       Contact: johnbstar7@gmail.com
+      
     
 
 <!---
